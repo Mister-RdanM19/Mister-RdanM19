@@ -30,6 +30,20 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=
+  html,css,js,ts,
+  python,php,java,cpp,c,
+  go,rust,
+  nodejs,express,
+  react,nextjs,
+  mysql,postgres,mongodb,
+  linux,bash,
+  git,github,
+  vscode,docker
+  &theme=dark" />
+</p>
 
 ---
 
