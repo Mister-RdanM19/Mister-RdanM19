@@ -27,9 +27,7 @@
 ---
 
 ## 🛠️ I can
-<p align="left">
-  <img src="[[https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,php,pascal]]" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=php,html,js,css,python,java,go,perl,swift,r,v,matlab,rust,c,nodejs,npm,dart,kotlin,lua,git" /> </p>
 
 
 ---
