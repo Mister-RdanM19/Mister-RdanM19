@@ -1,54 +1,46 @@
-<!-- ======================================= -->
-<!--   GitHub Profile | Mr.Rm19 (Portfolio)  -->
-<!-- ======================================= -->
+# 👋 Hi, I'm Mr.Rm19
 
-<h1 align="center">Mr.Rm19</h1>
+![GitHub followers](https://img.shields.io/github/followers/Mister-RdanM19?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Mister-RdanM19?style=social)
 
-<p align="center">
-  <code>Developer • Portfolio • Continuous Learner</code>
-</p>
+💻 **Developer | Tech Enthusiast | Lifelong Learner**
 
----
-
-## 👋 About Me
-Saya seorang **developer yang sedang membangun portfolio**, fokus pada:
-- pemahaman dasar pemrograman,
-- sistem & Linux,
-- dan pembuatan project kecil yang fungsional.
-
-Saya percaya skill berkembang lewat **praktik nyata**, bukan hanya teori.
+Saya adalah seorang developer yang tertarik pada dunia teknologi, pemrograman, dan pengembangan software. Senang belajar hal baru, membangun project, dan berbagi ilmu melalui GitHub.
 
 ---
 
-## 🧰 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,html,css,js,python,git&theme=dark" />
-</p>
+## 🚀 About Me
+- 🔭 Sedang fokus mengembangkan skill di dunia programming
+- 🌱 Selalu belajar teknologi dan tools baru
+- 💡 Tertarik pada pengembangan aplikasi dan solusi digital
+- 📫 Bisa dihubungi melalui email: **ramdan19id@gmail.com**
 
 ---
 
-## 📁 Featured Projects
-> Beberapa project yang merepresentasikan proses belajar dan kemampuan saya
+## 🛠️ Tech Stack
+Beberapa teknologi yang sering saya gunakan:
 
-### 🔹 Project 1 — *Coming Soon*
-- Deskripsi singkat project
-- Fokus: logika / fitur / problem yang diselesaikan
+- **Languages:**  
+  `JavaScript` • `Python` • `HTML` • `CSS`
 
-### 🔹 Project 2 — *Coming Soon*
-- Deskripsi singkat project
-- Fokus: tools atau teknologi yang dipakai
+- **Tools & Platforms:**  
+  `Git` • `GitHub` • `VS Code`
 
-> *(Project akan terus diperbarui seiring perkembangan skill)*
+*(Tech stack bisa kamu sesuaikan nanti)*
 
 ---
 
+## 📊 GitHub Stats
+![Mr.Rm19's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mister-RdanM19&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-RdanM19&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Current Focus
-```txt
-• Building real projects
-• Writing clean & readable code
-• Improving problem-solving
-• Understanding systems step by step
+## 🌐 Connect with Me
+- 🐙 GitHub: [Mister-RdanM19](https://github.com/Mister-RdanM19)
+- 📧 Email: **ramdan19id@gmail.com**
+
+---
+
+⭐ Jangan lupa follow dan cek repository saya!
