@@ -1,46 +1,73 @@
-# 👋 Hi, I'm Mr.Rm19
+<h1 align="center">
+  Hi there 👋, I'm Mr.Rm19
+</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/Mister-RdanM19?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Mister-RdanM19?style=social)
+<h3 align="center">
+  💻 Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner
+</h3>
 
-💻 **Developer | Tech Enthusiast | Lifelong Learner**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mister-RdanM19&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Saya adalah seorang developer yang tertarik pada dunia teknologi, pemrograman, dan pengembangan software. Senang belajar hal baru, membangun project, dan berbagi ilmu melalui GitHub.
+<p align="center">
+  <a href="https://github.com/Mister-RdanM19">
+    <img src="https://img.shields.io/github/followers/Mister-RdanM19?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/Mister-RdanM19">
+    <img src="https://img.shields.io/github/stars/Mister-RdanM19?label=Stars&style=social" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Sedang fokus mengembangkan skill di dunia programming
-- 🌱 Selalu belajar teknologi dan tools baru
-- 💡 Tertarik pada pengembangan aplikasi dan solusi digital
-- 📫 Bisa dihubungi melalui email: **ramdan19id@gmail.com**
+## 🧑‍💻 About Me
+- 🔭 I’m currently improving my programming skills  
+- 🌱 Always learning new technologies and tools  
+- 💡 Interested in software development & digital solutions  
+- 📫 Reach me at: **ramdan19id@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
-Beberapa teknologi yang sering saya gunakan:
-
-- **Languages:**  
-  `JavaScript` • `Python` • `HTML` • `CSS`
-
-- **Tools & Platforms:**  
-  `Git` • `GitHub` • `VS Code`
-
-*(Tech stack bisa kamu sesuaikan nanti)*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Mr.Rm19's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mister-RdanM19&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mister-RdanM19&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-RdanM19&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-RdanM19&layout=compact&theme=tokyonight)
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mister-RdanM19&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-- 🐙 GitHub: [Mister-RdanM19](https://github.com/Mister-RdanM19)
-- 📧 Email: **ramdan19id@gmail.com**
+<p align="left">
+  <a href="https://github.com/Mister-RdanM19">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:ramdan19id@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ Jangan lupa follow dan cek repository saya!
+## 🎯 Fun Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+⭐️ *Feel free to explore my repositories and follow me for more projects!*
