@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi there 👋, I'm Mr.Rm19
+  Hi Guys  👋, I'm Mr.Rm19
 </h1>
 
 <h3 align="center">
-  💻 Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner
+  💻 Grey Hat Hacker | 🚀 Tech Enthusiast | 📚 Lifelong Learner
 </h3>
 
 <p align="center">
@@ -19,31 +19,18 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently improving my programming skills  
+- 🔭 I am studying some programs
 - 🌱 Always learning new technologies and tools  
-- 💡 Interested in software development & digital solutions  
+- 💡 interested in technology in the internet world 
 - 📫 Reach me at: **ramdan19id@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,php,pascal" />
 </p>
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=
-  html,css,js,ts,
-  python,php,java,cpp,c,
-  go,rust,
-  nodejs,express,
-  react,nextjs,
-  mysql,postgres,mongodb,
-  linux,bash,
-  git,github,
-  vscode,docker
-  &theme=dark" />
-</p>
+
 
 ---
 
@@ -65,7 +52,6 @@
 
 ---
 
-## 🎬 Animations
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile;I+Love+Coding;Always+Learning+New+Things" />
 </p>
