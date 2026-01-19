@@ -18,7 +18,7 @@
 - 🌱 Always learning new technologies and tools  
 - 💡 interested in technology in the internet world 
 - 📫 Reach me at: **ramdan19id@gmail.com**
-
+- ga semua orang memahami, orang yang mempelajari terus menerus lebih mengerti arti dunia dan alam, bukan sekedar jago, tapi memahami system dan batasan tertentu
 ---
 
 ## 🛠️ I can
